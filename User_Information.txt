@@ -1,0 +1,20 @@
+NAME 	 AGE 	 CNICHamza	12	3454475
+
+Ali	234	54765i843
+
+Kahsif	23	564679
+
+Sufi	21	34566787
+
+Mani	23	56766898
+
+umer	23	346778
+
+Mohsin	76	2345678
+
+Hassan	77	345678
+
+Ijlal	23	45678
+
+Kisha	23	345678
+
